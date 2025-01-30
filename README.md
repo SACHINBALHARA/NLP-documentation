@@ -5,30 +5,30 @@ Welcome to the **NLP Tutorials Repository**! This repository contains various Ju
 ## 📂 Repository Structure
 
 ### 1️⃣ **Fundamentals of NLP**
-- **Bag of Words--NLP.ipynb** - Implementation of the Bag of Words model for text representation.
-- **BAG OF N GRAMS --NLP.ipynb** - Demonstration of the Bag of N-Grams approach to capture contextual information.
-- **stop words.ipynb** - Understanding and removing stop words for text preprocessing.
-- **part of speech -NLP.ipynb** - POS tagging using NLP libraries like NLTK and spaCy.
-- **REGEX.ipynb** - Using Regular Expressions (Regex) for text pattern matching and extraction.
+- [**Bag of Words--NLP.ipynb**](Bag%20of%20WORDS--NLP.ipynb) - Implementation of the Bag of Words model for text representation.
+- [**BAG OF N GRAMS --NLP.ipynb**](BAG%20OF%20N%20GRAMS%20--NLP.ipynb) - Demonstration of the Bag of N-Grams approach to capture contextual information.
+- [**stop words.ipynb**](stop%20words.ipynb) - Understanding and removing stop words for text preprocessing.
+- [**part of speech -NLP.ipynb**](part%20of%20speech%20-NLP.ipynb) - POS tagging using NLP libraries like NLTK and spaCy.
+- [**REGEX.ipynb**](REGEX.ipynb) - Using Regular Expressions (Regex) for text pattern matching and extraction.
 
 ### 2️⃣ **Text Representation & Feature Extraction**
-- **TF - IDF --- NLP.ipynb** - Implementing Term Frequency-Inverse Document Frequency (TF-IDF) for text vectorization.
-- **WORD VECTOR IN SPACY.ipynb** - Exploring word embeddings using spaCy.
-- **word vector in Gensim.ipynb** - Using Gensim for word vector representations.
-
+- [**TF - IDF --- NLP.ipynb**](TF%20-%20IDF%20---%20NLP.ipynb) - Implementing Term Frequency-Inverse Document Frequency (TF-IDF) for text vectorization.
+- [**WORD VECTOR IN SPACY.ipynb**](WORD%20VECTOR%20IN%20SPACY.ipynb) - Exploring word embeddings using spaCy.
+- [**word vector in Gensim.ipynb**](word%20vector%20in%20Gensim.ipynb) - Using Gensim for word vector representations.
+- [**FAST TEXT TUTORIAL.ipynb**](FAST%20TEXT%20TUTORIAL.ipynb) - Implementing word embeddings with Facebook's FastText.
 
 ### 3️⃣ **Named Entity Recognition & Text Processing**
-- **NER --named entity recognition.ipynb** - Performing Named Entity Recognition (NER) using spaCy and NLTK.
-- **Spacy & NLTK.ipynb** - Comparison of NLP tasks using spaCy and NLTK.
+- [**NER --named entity recognition.ipynb**](NER%20--named%20entity%20recognition.ipynb) - Performing Named Entity Recognition (NER) using spaCy and NLTK.
+- [**Spacy & NLTK.ipynb**](Spacy%20&%20NLTK.ipynb) - Comparison of NLP tasks using spaCy and NLTK.
 
 ### 4️⃣ **Projects & Applications**
-- **Project ask que to pdf.ipynb** - A project that extracts questions from a PDF document.
-- **Project document summarizer .ipynb** - Implementation of a text summarization project.
+- [**Project ask que to pdf.ipynb**](Project%20ask%20que%20to%20pdf.ipynb) - A project that extracts questions from a PDF document.
+- [**Project document summarizer .ipynb**](Project%20document%20summarizer%20.ipynb) - Implementation of a text summarization project.
 
 ### 5️⃣ **Miscellaneous**
-- **untitled.txt** - Temporary or additional notes.
-- **Top website for career growth .pdf** - A document listing useful websites for career development.
-- **README.md** - This file provides an overview of the repository.
+- [**untitled.txt**](untitled.txt) - Temporary or additional notes.
+- [**Top website for career growth .pdf**](Top%20website%20for%20career%20growth%20.pdf) - A document listing useful websites for career development.
+- [**README.md**](README.md) - This file provides an overview of the repository.
 
 ## 🚀 Getting Started
 1. Clone the repository:
@@ -60,3 +60,4 @@ Feel free to contribute by adding more tutorials, fixing issues, or improving do
 This repository is under the [MIT License](LICENSE).
 
 Happy Learning! 🎯🚀
+
