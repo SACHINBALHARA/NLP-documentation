@@ -15,7 +15,7 @@ Welcome to the **NLP Tutorials Repository**! This repository contains various Ju
 - **TF - IDF --- NLP.ipynb** - Implementing Term Frequency-Inverse Document Frequency (TF-IDF) for text vectorization.
 - **WORD VECTOR IN SPACY.ipynb** - Exploring word embeddings using spaCy.
 - **word vector in Gensim.ipynb** - Using Gensim for word vector representations.
-- **FAST TEXT TUTORIAL.ipynb** - Implementing word embeddings with Facebook's FastText.
+
 
 ### 3️⃣ **Named Entity Recognition & Text Processing**
 - **NER --named entity recognition.ipynb** - Performing Named Entity Recognition (NER) using spaCy and NLTK.
